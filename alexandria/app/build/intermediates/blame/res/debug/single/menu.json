@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "J:\\Android\\Pros\\Alexandria_Code\\alexandria\\app\\build\\intermediates\\res\\merged\\debug\\menu\\book_detail.xml",
+        "source": "J:\\Android\\Pros\\Alexandria_Code\\alexandria\\app\\src\\main\\res\\menu\\book_detail.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioPros\\Alexandria_Code\\alexandria\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\AndroidStudioPros\\Alexandria_Code\\alexandria\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "J:\\Android\\Pros\\Alexandria_Code\\alexandria\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "J:\\Android\\Pros\\Alexandria_Code\\alexandria\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioPros\\Alexandria_Code\\alexandria\\app\\build\\intermediates\\res\\merged\\debug\\menu\\book_detail.xml",
+        "source": "E:\\AndroidStudioPros\\Alexandria_Code\\alexandria\\app\\src\\main\\res\\menu\\book_detail.xml"
+    }
+]

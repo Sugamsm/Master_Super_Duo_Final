@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\AndroidStudioPros\\Alexandria_Code\\alexandria\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_add_book.xml",
+        "source": "E:\\AndroidStudioPros\\Alexandria_Code\\alexandria\\app\\src\\main\\res\\layout-land\\fragment_add_book.xml"
+    },
+    {
+        "merged": "J:\\Android\\Pros\\Alexandria_Code\\alexandria\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_add_book.xml",
+        "source": "J:\\Android\\Pros\\Alexandria_Code\\alexandria\\app\\src\\main\\res\\layout-land\\fragment_add_book.xml"
+    },
+    {
+        "merged": "J:\\Android\\Pros\\Alexandria_Code\\alexandria\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_main_tablet.xml",
+        "source": "J:\\Android\\Pros\\Alexandria_Code\\alexandria\\app\\src\\main\\res\\layout-land\\activity_main_tablet.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioPros\\Alexandria_Code\\alexandria\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_main_tablet.xml",
+        "source": "E:\\AndroidStudioPros\\Alexandria_Code\\alexandria\\app\\src\\main\\res\\layout-land\\activity_main_tablet.xml"
+    }
+]

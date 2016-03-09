@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\SM01\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_405ee915a084a28e7d3157c99ec4cf60a6a294ba.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.4.0_b5986777cd86c89ec72ce1907c4d91f7f7faf2c6.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-8.4.0_8af17ca029dfd06af1786784c2c6a586add2e641.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-8.4.0_123dd022a280ae70d7da7139364e7dff4c7a0bd6.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\jacoco\jacocoagent.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ea73283d55c98ab1fccb8c23d76c68b7d7ecbd83">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\jacocoagent_fa72d56b1f74265b6527b75ba256b8e0bdd9e20a.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_72f238b525213b950c00d96a315fc200a2dad392.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-8.4.0_557b0d9dfba2fe2e9f9a795d807a4c01dd15cbbd.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_8c2c4f40221ebe75ee9f7716f4877096236c038c.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_60cacdfee42734058e2e212f67935a7e26662905.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-8.4.0_144eaa989f6ef4b7dffcec23e357301a7d3a3181.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-8.4.0_b9c54ccd5047e758fb1ffd5a96481c38e7ea8da1.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_85a8ddc925f9cd52e523a96f5f8f30f596eff329.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-23.0.0_6afee23784cad2627861ce34fdea1ed1c03a4069.jar" />
+    </item>
+    <item
+        jar="J:\Android\AndroidSDK\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_060d4d992414ca306c910e961d8045422e570479.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-8.4.0_07ad2c4dc0f535b2e853953d4762b3926f46c59d.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-measurement-8.4.0_56721eb0bf749235703b88af7f11f00cea877e1e.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-8.4.0_44444e429b8b90e98111d1905e704afc0089f73e.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_edbc9fcf677b7907582b8a72ffdf59136b62b139.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.4.0_97dc0af894ac1b722ef81dd12ee5bdd618549299.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-8.4.0_1d3f4b75bcf674d861c3c01e660f82baa22bbcc6.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_bb544bd5be329c0db1c0e3c09778f77b3e286f8c.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-8.4.0_cdc95c01b3cf09282fab58310f687f8a2230de7a.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.4.0_4ba6bd11181505330530e397a9c300baeb403fad.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.4.0_98d9f07f0030c2340c9879569381ba09ba4c96d5.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-8.4.0_443bb5b7f6ba7a7bbb77bf04677e8efef3493eb8.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-8.4.0_9bf089f070a288342622d23cde302bb6c7cd4886.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-8.4.0_b91bac7db32cadc8c30e18ec4fde5f38185cd064.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_098a69691c72d3d3c25bbccd3273a3bfd54f036f.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-8.4.0_e8edcdae6c16d40d058ae141857a02d9d330ff75.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_f3075f0c76a1469ad5ccfb42b3d519b2c92b4bdd.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_f0e97ac93b466902b4cdd0b90c3ba02ab5bd9812.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-8.4.0_e81d2e55667ae65bff7201efafabf7e79acb9bc0.jar" />
+    </item>
+    <item
+        jar="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="J:\Android\Pros\Alexandria_Code\alexandria\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-8.4.0_1020da9f969f44570aa180ef45d8f214e8b6a743.jar" />
+    </item>
+
+</items>
