@@ -1,0 +1,254 @@
+[
+    {
+        "outputFile": "E:\\AndroidStudioPros\\Football_Scores-Starting\\Football_Scores-master\\app\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 37,
+                    "endOffset": 88
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioPros\\Football_Scores-Starting\\Football_Scores-master\\app\\src\\main\\res\\values-sw600dp\\dimen.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 8,
+                        "startOffset": 461,
+                        "endColumn": 41,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 93,
+                    "endColumn": 36,
+                    "endOffset": 125
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioPros\\Football_Scores-Starting\\Football_Scores-master\\app\\src\\main\\res\\values-sw600dp\\dimen.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 8,
+                        "startOffset": 420,
+                        "endColumn": 40,
+                        "endOffset": 452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 130,
+                    "endColumn": 40,
+                    "endOffset": 166
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioPros\\Football_Scores-Starting\\Football_Scores-master\\app\\src\\main\\res\\values-sw600dp\\dimen.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 8,
+                        "startOffset": 375,
+                        "endColumn": 44,
+                        "endOffset": 411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 171,
+                    "endColumn": 69,
+                    "endOffset": 236
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioPros\\Football_Scores-Starting\\Football_Scores-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-sw600dp\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 69,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 241,
+                    "endColumn": 69,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioPros\\Football_Scores-Starting\\Football_Scores-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-sw600dp\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 126,
+                        "endColumn": 69,
+                        "endOffset": 191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 58,
+                    "endOffset": 365
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioPros\\Football_Scores-Starting\\Football_Scores-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-sw600dp\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 196,
+                        "endColumn": 58,
+                        "endOffset": 250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 370,
+                    "endColumn": 70,
+                    "endOffset": 436
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioPros\\Football_Scores-Starting\\Football_Scores-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-sw600dp\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 255,
+                        "endColumn": 70,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 441,
+                    "endColumn": 67,
+                    "endOffset": 504
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioPros\\Football_Scores-Starting\\Football_Scores-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-sw600dp\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 326,
+                        "endColumn": 67,
+                        "endOffset": 389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 509,
+                    "endColumn": 57,
+                    "endOffset": 562
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioPros\\Football_Scores-Starting\\Football_Scores-master\\app\\src\\main\\res\\values-sw600dp\\dimen.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 8,
+                        "startOffset": 139,
+                        "endColumn": 61,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 567,
+                    "endColumn": 55,
+                    "endOffset": 618
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioPros\\Football_Scores-Starting\\Football_Scores-master\\app\\src\\main\\res\\values-sw600dp\\dimen.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 8,
+                        "startOffset": 201,
+                        "endColumn": 59,
+                        "endOffset": 252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 623,
+                    "endColumn": 53,
+                    "endOffset": 672
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioPros\\Football_Scores-Starting\\Football_Scores-master\\app\\src\\main\\res\\values-sw600dp\\dimen.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 8,
+                        "startOffset": 261,
+                        "endColumn": 57,
+                        "endOffset": 310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 677,
+                    "endColumn": 51,
+                    "endOffset": 724
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioPros\\Football_Scores-Starting\\Football_Scores-master\\app\\src\\main\\res\\values-sw600dp\\dimen.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 8,
+                        "startOffset": 319,
+                        "endColumn": 55,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 729,
+                    "endColumn": 54,
+                    "endOffset": 779
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioPros\\Football_Scores-Starting\\Football_Scores-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-sw600dp\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 54,
+                        "endOffset": 445
+                    }
+                }
+            }
+        ]
+    }
+]

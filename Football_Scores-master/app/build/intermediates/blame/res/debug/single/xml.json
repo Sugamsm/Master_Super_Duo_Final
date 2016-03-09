@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidStudioPros\\Football_Scores-Starting\\Football_Scores-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\api_prefs.xml",
+        "source": "E:\\AndroidStudioPros\\Football_Scores-Starting\\Football_Scores-master\\app\\src\\main\\res\\xml\\api_prefs.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioPros\\Football_Scores-Starting\\Football_Scores-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_pro.xml",
+        "source": "E:\\AndroidStudioPros\\Football_Scores-Starting\\Football_Scores-master\\app\\src\\main\\res\\xml\\widget_pro.xml"
+    }
+]
